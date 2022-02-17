@@ -71,18 +71,18 @@
 
 
 	
-	<scene name="scene_A_Old_Cemetery1_IMG_9621" title="A_Old_Cemetery1_IMG_9621" onstart="" thumburl="panos/A_Old_Cemetery1_IMG_9621.tiles/thumb.jpg" lat="35.99273889" lng="-78.91752222" heading="355.0">
+	<scene name="scene_A_Annotated_Photo" title="A_Annotated_Photo" onstart="" thumburl="panos/A_Annotated_Photo.tiles/thumb.jpg" lat="" lng="" heading="">
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="513.869" vlookat="23.154" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="155.260" vlookat="25.120" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
-		<preview url="panos/A_Old_Cemetery1_IMG_9621.tiles/preview.jpg" />
+		<preview url="panos/A_Annotated_Photo.tiles/preview.jpg" />
 
-		<image prealign="0|355.0|0">
-			<cube url="panos/A_Old_Cemetery1_IMG_9621.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,1024,2176" />
+		<image>
+			<cube url="panos/A_Annotated_Photo.tiles/%s/l%l/%v/l%l_%s_%v_%h.jpg" multires="512,640" />
 		</image>
-		<hotspot name="spot1" style="skin_hotspotstyle" ath="-54.844" atv="0.179" linkedscene="scene_b_old_cemetery_4_r0010283" />
+		<hotspot name="spot1" style="skin_hotspotstyle" ath="-36.079" atv="1.828" linkedscene="scene_b_old_cemetery_4_r0010283" />
 
 	</scene>
 
@@ -90,7 +90,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="211.279" vlookat="8.947" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="263.530" vlookat="14.894" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/B_Old_Cemetery_4_R0010283.tiles/preview.jpg" />
 
@@ -104,7 +104,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="536.271" vlookat="-5.717" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="540.605" vlookat="-8.330" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/C_Old_Cemetery_2_IMG_9627.tiles/preview.jpg" />
 
@@ -118,7 +118,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="-12.182" vlookat="1.049" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="299.612" vlookat="3.936" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/D_R0010275.tiles/preview.jpg" />
 
@@ -132,7 +132,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="351.550" vlookat="11.509" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="256.330" vlookat="10.383" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/E_R0010272_2.tiles/preview.jpg" />
 
@@ -146,7 +146,7 @@
 		
 		<control bouncinglimits="calc:image.cube ? true : false" />
 
-		<view hlookat="140.074" vlookat="-12.759" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
+		<view hlookat="140.568" vlookat="17.806" fovtype="MFOV" fov="120.000" maxpixelzoom="2.0" fovmin="70" fovmax="140" limitview="auto" />
 
 		<preview url="panos/F_R0010278.tiles/preview.jpg" />
 
